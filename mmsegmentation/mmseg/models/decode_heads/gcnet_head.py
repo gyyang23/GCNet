@@ -13,7 +13,7 @@ from mmseg.utils import OptConfigType, SampleList
 
 @MODELS.register_module()
 class GCNetHead(BaseDecodeHead):
-    """Decode head for RDRNetV2.
+    """Decode head for GCNet.
 
     Args:
         in_channels (int): Number of input channels.
