@@ -44,7 +44,7 @@ Please refer to [mmsegmentation](https://mmsegmentation.readthedocs.io/en/latest
 
 ## Dataset
 ```
-RDRNet
+GCNet
 ├── mmsegmentation
 ├── figures
 ├── data
